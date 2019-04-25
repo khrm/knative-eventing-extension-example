@@ -11,4 +11,4 @@ spec:
   resources:
   - name: source-repo
     resourceRef:
-      name: pipelineGitRes-knative-eventing-extension-example
+      name: gh-khrm-knative-eventing-extension-example
